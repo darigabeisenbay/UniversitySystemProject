@@ -1,0 +1,14 @@
+
+.idea/
+out/
+*.iml
+
+src/lab_1/
+src/lab_2/
+src/lab_3/
+src/polimorphism/
+src/practice_1/
+src/practice_2/
+src/practice_3/
+src/practice_4/
+src/practice_5/
